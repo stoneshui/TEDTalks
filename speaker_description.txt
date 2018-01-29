@@ -1,0 +1,2576 @@
+857	Psychiatrist, neurologist, author
+784	Physicist
+230	Tech visionary
+231	Architect
+746	Evolutionary biologist
+1346	Computer theorist
+443	Athlete and actor
+308	Preacher
+474	Designer and theorist
+455	Graphic designer
+379	Engineer
+343	Oceanographer
+498	Coach
+414	Designer
+189	Doctor
+500	Poet
+798	Author, satirist
+209	Social innovator
+211	TED Curator
+5	Car designer
+503	Designer
+116	Philosopher, cognitive scientist
+122	Designer, educator
+215	Illustrator
+8	Architect, experience designer
+9	Inventor
+510	Philosopher-comic
+221	Historian of science
+426	Biochemist
+345	Traveler
+533	Astronaut, engineer, entrepreneur, physician and educator
+117	Fiddler
+506	Filmmaker
+520	Designer
+218	Theremin player
+113	Evolutionary biologist
+280	Biologist
+167	Technology forecaster 
+223	Jugglers
+524	Cartoonist
+13	Architect
+11	Primatologist; environmentalist
+260	Juggler
+219	Architect
+450	Idea guy
+436	Type designer
+145	Ecologist
+480	Cognitive scientist and design critic
+109	Singer/songwriter
+110	Singer/songwriter
+103	Musician
+306	Physicist
+515	Author, thinker
+364	Human beatbox
+105	Online commerce pioneer
+125	Computer designer, brain researcher
+80	Futurist
+394	Physicist
+351	AI pioneer
+447	Fiddler
+358	Constitutional law scholar
+176	Engineer
+318	Architecture critic
+355	Roboticist
+441	Doctor
+362	Writer
+126	Marine biologist
+69	Anthropologist, ethnobotanist
+102	Philosopher, cognitive scientist
+28	Marketer and author
+534	Sculptor
+32	Artist
+365	Civilization scholar
+381	Photographer
+354	Psychologist
+278	Historian of science
+300	Animating neurobiologist
+72	Drone maker
+97	Psychologist; happiness expert
+377	Physician, author
+121	Social critic
+310	Magician
+312	Psychologist
+191	Monk, author, photographer
+570	Evolutionary psychologist
+429	Inventor
+471	Ichthyologist
+118	Computer scientist, entrepreneur and philanthropist
+50	Graphic designer
+422	Mathematician
+402	Environmentalist, futurist
+76	Primate authority
+115	Musician
+375	Journalist
+442	Inventor
+64	Playwright, activist
+87	Humorist, web artist
+77	Biologist, biomechanics researcher
+78	Master of visual illusions
+46	Pianist, composer
+20	Writer
+14	Experimental audio-visual artist
+562	Publisher, philanthropist, poet
+29	Economist
+526	Neuroscientist
+434	Writer
+366	Positive psychologist
+413	Folk musician
+267	Sculptor
+737	Author
+51	Physicist, energy guru
+199	Mathemagician
+62	Global prioritizer
+251	Physicist
+347	Storyteller
+101	Cellist; singer-songwriter
+40	Nature photographer
+430	Designer
+216	Digital community builder
+390	Finance journalist
+35	Biologist, Nobel laureate
+327	Close-up card magician
+393	Nose
+195	Biologist
+1150	Thinker
+33	Military strategist
+112	Priest
+385	Inventor
+104	Architect
+56	Photographer
+70	Marketer, success analyst
+89	Polar explorer
+59	Musician, activist
+6	Biologist, genetics pioneer
+18	Science writer, innovation consultant, conservationist
+19	Digital visionary
+38	Inventor, futurist
+57	Biomedical inventor
+60	Actor, playwright, social critic
+24	Dance company
+27	Industrial designer
+31	Architect
+12	Neuroscience and cancer researcher
+388	Inventor
+428	Paleontologist
+411	Automotive researcher
+432	Cartoonist
+738	Comedian, voice artist
+720	Visionary
+274	Social Media Theorist
+91	Investor and advocate for moral leadership
+74	Planetary futurist
+210	Artist
+73	Journalist
+420	Psychologist; happiness expert
+217	Playwright, activist
+335	Space activist
+98	Evolutionary biologist
+164	Psychologist
+247	Legal expert
+3	President-elect of Afghanistan
+30	Economist
+79	Founder, GrameenPhone
+39	Crusader against aging
+63	Innovation consultant
+47	Quantum physicist
+37	Founder of Wikipedia
+42	Astrophysicist
+44	Philosopher
+43	Designer; creative director, Ideo
+67	Mathematician; statistician
+36	Author
+75	Nonprofit venture capitalist
+93	Psychologist
+721	Political philosopher
+747	Slam poet
+142	Medical futurist
+405	Technologist and futurist
+94	Philosopher, cognitive scientist
+361	Game designer
+334	African grey parrot
+138	String quartet
+439	World-builder
+445	Biochemist
+90	Physicist, personal fab pioneer
+421	Cave scientist
+108	Performance poet, multimedia artist
+431	Designer
+68	Journalist, philosopher
+123	Environmentalist, futurist
+114	Satirist
+96	Life coach; expert in leadership psychology
+400	Comedian
+65	Human-computer interface designer
+631	Musician
+92	Global health expert; data visionary
+10	Physician, author
+49	Architect
+58	Epidemiologist, philanthropist
+21	Blogger; cofounder, Six Apart
+22	Skeptic
+41	Tech visionary
+23	Musician, activist
+34	Photographer
+25	Education visionary
+48	Inventor
+45	Violinist
+2	inventor, engineer
+4	Aircraft engineer
+7	Technology columnist
+16	Anthropologist, expert on love
+86	Actor, comedian, playwright
+1	Climate advocate
+66	Author/educator
+71	Pastor, author
+54	Co-founder, Architecture for Humanity
+55	Filmmaker
+99	Singer/songwriter
+53	Activist for environmental justice
+237	Astronomer, educator, skeptic
+119	Singer/songwriter
+953	Marketer and author
+26	Performance poet, multimedia artist
+61	Writer
+130	Buddhist scholar
+81	Singer, performance artist
+177	Epidemiologist, philanthropist
+174	Architect
+285	Venture capitalist
+835	Skeptic and conjuror
+333	Educator
+529	Science journalist
+175	Education researcher
+590	Artist
+353	Angel Investor
+228	Educator and computing pioneer
+149	Marketing expert
+131	Interaction designer; software developer
+208	College president
+141	Explorer, inventor and outer space dreamer
+129	Software architect
+178	Planetary scientist
+200	Psychologist
+147	Medical animator
+206	Oceanographer
+239	Filmmaker
+196	Technology columnist
+171	Filmmaker
+143	Assumption-busting economist
+161	Dictionary editor
+202	Tinkerer
+140	Global health expert; data visionary
+204	Novelist
+205	Filmmaker
+213	City evangelist
+241	Designer
+190	User anthropologist
+170	Producer
+128	Venture capitalist
+172	Artist
+1176	Cartoonist
+144	Artist, storyteller, Internet anthropologist
+179	Dancer
+201	Connector
+187	Legal activist
+182	Illustrator, author
+214	Environmental writer
+194	Physicist
+276	Physicist
+271	Polymath
+127	Economist
+412	Inventor
+207	Design curator
+259	Evolutionary biologist
+183	DNA origamist
+197	Designer
+188	Guitarist
+298	Guitarist
+181	Entrepreneur
+148	Performance poet, multimedia artist
+212	Transport networker
+139	General manager of Microsoft's Virtual Earth
+225	Venture capitalist
+163	Psychologist
+222	Singer/songwriter
+162	Artist
+254	Band
+184	Brain expert
+146	Game designer
+165	Roboticist
+203	Investor
+85	Activist
+83	Biologist
+84	Photojournalist
+82	Inventor
+585	New philanthropist
+154	Investment banker
+151	Economist
+157	Investor and advocate for moral leadership
+153	Inventor
+159	Journalist
+155	Novelist, poet
+299	Botanist and activist
+268	Doctor
+185	Economist
+249	Cardiologist
+403	Filmmaker
+255	CEO
+340	Primatologist; environmentalist
+220	Kenyan MP
+320	Bioengineer
+313	Craft artist, product designer
+386	Filmmaker
+330	Blogger and activist
+156	University founder
+265	Singer-songwriter
+186	Singer-songwriter
+198	Mathematician
+323	Genographer
+152	Economist
+158	Musician, activist
+168	Paleoanthropologist
+169	Musician, activist
+192	Environmental scientist
+193	Futurist
+730	Professor
+301	Author
+328	Animal behaviorist
+348	Lunch lady
+346	Digital librarian
+350	Toy designer
+329	Musician and inventor
+316	Artist, storyteller, Internet anthropologist
+319	Digital visionary
+359	Designer
+263	Food writer
+288	Tech visionary
+372	Design curator
+339	Entrepreneur, marketer
+297	Photographer
+708	Cultural Historian
+250	Novelist
+407	Internet entrepreneur
+286	Conductor
+322	Engineer and origamist
+294	Novelist, poet
+279	Artist
+324	Director of photography, National Geographic
+282	Filmmaker
+363	Historian
+371	Physicist
+408	Bioengineer
+307	Anthropologist, expert on love
+396	Fashion designer
+391	Planet walker
+374	Expert
+349	Counselor, coach and baker
+315	Paleoanthropologist
+296	Singer/songwriter
+325	Singer/songwriter
+326	Particle physicist
+331	DNA origamist
+292	Space activist
+272	Psychologist
+409	Writer
+383	Performance poet, multimedia artist
+321	Origamist
+395	Political scientist and journalist
+356	Graphic designer
+273	Anthropologist, ethnobotanist
+290	Musician
+229	Neuroanatomist
+440	Paleontologist
+224	Researcher
+242	Theoretical physicist
+227	Biologist, genetics pioneer
+233	Author, publisher, education activist
+245	Human-computer interaction researcher
+234	Religious scholar
+232	Physicist, education activist
+236	Brain researcher
+344	Physician, disaster-preparedness activist
+418	Entrepreneur
+287	Singer/songwriter
+264	Oceanographer
+235	Illustrator
+269	Memeticist
+266	Designer
+341	Social psychologist
+557	Guitarist
+243	Climate advocate
+248	CEO, Public Radio International (PRI)
+253	Physicist 
+252	Physician, author
+261	Hacker
+270	Economist
+258	Mycologist
+246	Composer, inventor
+427	Artist
+435	Designer at play
+399	Planetary scientist
+392	Designer
+404	Astrophysicist
+483	Play researcher, psychiatrist
+410	Entrepreneur
+489	Humorist
+756	Author
+437	Entrepreneur
+424	Reporter
+433	Baker
+406	Chef
+419	Author
+416	Bee expert
+795	Entrepreneur
+360	Photojournalist
+806	Acting and voice coach
+423	Tech visionary
+517	Investor, human guinea pig, author
+705	Puzzlemaster
+488	Maker, critical thinker
+548	Behavioral economist
+495	Technology columnist
+477	TV host
+472	Photographer and explorer
+451	Philanthropist
+494	Investor and advocate for moral leadership
+547	Sustainable-business pioneer
+657	Robotics designer
+469	Visual storyteller
+463	Futurist
+545	Technologist and visionary
+544	A capella ensemble
+504	Military analyst
+538	Marketer and author
+561	Photographer
+482	Athlete and actor
+587	Mathemagician
+466	Ensemble
+531	Physicist 
+470	Oceanographer
+485	Philosopher, cognitive scientist
+453	Writer
+541	Pianist
+473	Twitter co-founder
+501	Newspaper designer
+554	Entrepreneur
+468	Astronomer
+602	Neurobiologist
+553	Speaker and author
+516	Composer
+464	Maestro
+490	Business owner and activist
+594	Biochemist
+537	Food and agriculture expert
+518	Marketer, rock climber
+499	Virus hunter
+603	Anthropologist
+637	Neurological anthropologist
+563	Media exec
+571	Biologist
+527	Polymorphic playwright
+532	Physicist and military theorist
+512	Green auto pioneer
+467	Oceanographer
+484	Inventor
+535	Climate advocate
+509	Molecular biologist
+551	Planetary scientist
+580	Roboticist
+601	Physician scientist
+589	Architect
+457	MIT grad student
+478	Pianist
+523	Technologist
+588	Tinkerer
+540	Global health expert; data visionary
+729	Jazz legend
+566	Inventor
+556	Educator
+565	Engineer, executive
+519	Figurer
+549	Writer
+476	Tree researcher
+621	Artist
+599	Sculptor of light and space
+481	Researcher
+582	Psychologist
+586	Endurance runner
+511	Skeptimist
+572	Marketer, success analyst
+492	Inventor
+592	Development economist
+591	Designer
+502	Aerialist
+475	Conservationist
+552	Designer
+578	Deprogrammer
+525	Economist
+462	Psychologist
+507	Political scientist
+487	Behavioral economist
+558	College president
+521	Statistician
+560	Inventor, futurist
+831	Curator
+606	Experimental audio-visual artist
+681	Co-founder, Architecture for Humanity
+733	Motivational speaker
+651	Professor of management
+573	Biospherian
+662	Computer graphics pioneer
+581	Organist
+555	First Lady of the United States
+787	Happiness teacher
+762	Sculptor
+575	Social Media Theorist
+644	Investor and advocate for moral leadership
+598	Environmentalist, futurist
+620	Global health expert; data visionary
+584	Economist
+775	Musician
+684	Cultural diplomacy expert
+710	Arab sexuality expert
+712	Macroeconomist
+605	Philosopher
+683	Photographer
+604	British Prime Minister
+660	Sound consultant
+610	Micro-sculptor
+701	Astronomer
+650	Food urbanist
+607	Aquatic ape theorist
+655	Landscape ecologist
+700	British Prime Minister
+639	Musician
+614	Science writer, innovation consultant, conservationist
+640	Net watchdog
+613	Inventor
+608	Chief Economist and Senior Vice President, World Bank
+630	Cognitive neuroscientist
+627	Stuntman
+718	Physicist 
+646	Designer
+653	Neuroscientist, Artist
+669	Writer
+634	Architect
+622	Biodiversity archivist
+652	Novelist
+666	Quantum physicist
+615	Hip-hop artist
+619	Wireless electrician
+626	Creative technologist
+641	Internet scientist
+648	Astrophysicist
+659	Neuroscientist
+665	Economist, development visionary
+628	Photographer
+635	Producer
+623	Optical innovator
+691	Designer
+672	Brass virtuoso
+633	Underworld investigator
+645	Global strategist
+658	Advertising guru
+870	Singer
+649	Graphic designer
+643	Artist
+694	Designer
+642	Inventor
+723	Solar adventurer
+618	Career analyst
+625	Social commentator
+663	Conductor and leadership expert
+716	Aphorist
+647	Religious scholar
+698	Dune architect
+664	Inventor
+670	Mathematician
+726	X-ray visionary
+667	Applied scientist, innovator
+682	Atmospheric chemist
+696	Resilience leader
+706	Comedian
+654	Writer
+680	Tech anthropologist
+760	Chemist
+661	Marketing whiz
+727	Longevity coach, explorer
+732	Neuroscientist, primatologist, writer
+629	Coldwater swimmer
+820	Roboticist 
+848	Leadership expert
+840	Ornithologist
+692	Social entrepreneur
+673	Spiritual leader
+675	Preacher
+677	Buddhist scholar
+674	Vedantic teacher
+1157	Provocateur
+722	Social entrepreneur
+980	Artist and engineer
+769	Athlete and actor
+951	Diplomat
+761	Cancer Doctor
+792	Magician
+772	Cardiologist and geneticist 
+759	Healthcare revolutionary
+750	Architect
+791	Adventure physician 
+676	 Chairman of the Cordoba Initiative
+679	Journalist, philosopher
+744	Surgeon
+748	Health and human services expert
+819	Inventor
+741	Illusionist, endurance artist
+991	Scientist, innovator
+695	Global health expert; data visionary
+946	Spiritual leader
+688	Dancer, actor, activist
+757	Behavioral economist
+714	Entrepreneur
+715	Marine biologist
+686	Mythologist
+752	Social entrepreneur
+842	Philanthropist
+776	Visual neuroscientist
+685	Director of research, Samsung Research America
+728	Herpetologist
+717	Social entrepreneur, lawyer
+704	Anti-trafficking crusader
+709	Vision activist
+724	Brain expert
+950	Artist
+851	Innovation advocate
+702	Environmental activist
+719	Social entrepreneur
+755	Entrepreneur
+751	Playwright, activist
+734	Wildlife conservationist 
+735	Educator
+743	Investor 
+713	Photographer
+809	Education activist
+745	Percussionist
+689	Politician and writer
+736	Engineer
+1318	Economist
+893	Neuroscientist 
+797	Social scientist
+780	Cricket commentator
+800	Director and writer
+888	Dancer and choreographer
+804	Planetary and atmospheric scientist
+770	Digital visionary
+763	Founder, Transparency International
+931	Senator
+898	Architect
+1250	Author
+1120	Actor and writer
+964	Designer
+783	Technologist
+789	Venture capitalist
+802	Biologist
+796	Biochemist, cell biologist
+786	Dance adventurers
+869	Vaccine visionary
+865	Author/educator
+1001	Musician
+790	Chef
+779	Behavioral economics founder
+768	Politician
+1008	Philosopher
+860	Journalist
+879	Conservationist
+846	Data scientist
+885	User experience master
+884	Skeptic
+838	Technologist, city councilman
+849	Electronic music pioneer
+805	Violinist
+868	Filmmaker
+773	Livestock handling designer, autism activist
+788	Inventor
+859	Cancer researcher
+803	Executive, simplicity guru
+766	Software architect
+900	Scientist, Artist 
+814	Entrepreneur
+836	Inventor
+872	Interface designer
+821	Educator
+826	Executive
+811	Media expert 
+878	Political philosopher
+824	Writer
+911	Tree researcher
+801	Neuroscientist, philosopher
+922	Surgeon, inventor
+909	Mathematician
+767	Philanthropist
+889	CEO, author
+874	Founder, 4chan
+883	Musician, artist, writer
+988	Electronic music pioneer
+881	Environmentalist, futurist
+818	Author
+847	Development economist
+894	Entrepreneur, Lego enthusiast
+785	Director
+799	Game Designer
+856	Actor, comedian, playwright
+807	Anti-slavery activist
+891	Designer, illustrator, typographer
+901	Architect, designer
+823	Singer/songwriter
+853	Polymath
+852	Physician, social scientist
+777	Artist
+975	Brand strategist
+843	Scientist, inventor
+815	Child prodigy
+828	Roboticist
+845	Chemist
+771	Legal activist
+837	Designer
+816	Game designer
+765	Chef, activist
+1296	Spider silk scientist
+952	Arts administrator
+855	Educator
+832	Composer, conductor
+887	Entrepreneur
+1360	Marine biologist
+993	Chef
+830	Filmmaker
+844	Ocean rower
+833	Marine biologist
+850	Marine ecologist
+1373	Fisheries biologist
+861	Conservation biologist
+854	Marine ecologist
+871	Legal activist
+862	Geophysicist
+899	Marine biologist
+939	Cartoonist
+877	Creative entrepreneur 
+866	Media maven
+926	Oceanographer
+886	Behavioral ecologist
+954	Oceanographer, biogeochemist
+973	Marine biologist
+873	Photographer
+986	Artist and activist
+998	Oceanographer
+1011	High seas policy advisor
+876	Physicist 
+880	Advertising guru
+892	Innovation consultant
+994	Entomologist
+1009	Computer Scientist, Educator
+910	Social entrepreneur
+1012	Neuropsychologist
+923	Online commerce pioneer
+863	Biologist, genetics pioneer
+1037	Trust researcher
+1069	Author and marketer
+1073	Whistler
+1019	Product developer
+1042	Vulnerability researcher
+1159	Graphic designer
+966	Journalist
+912	Global health expert; data visionary
+958	Physician, social scientist
+896	Social Media Theorist
+914	Ecologist, writer
+940	Writer
+925	Marine toxicologist
+959	Musician
+960	Artist
+1007	Mathematician
+937	Data journalist
+971	Green designer
+929	Market transformer
+992	Diplomat
+965	Sound consultant
+932	Game changer
+981	Humorist, web artist
+1067	Journalist, runner
+915	Rational optimist
+919	Creator, The 99
+978	Building activist
+997	Voting system designer
+917	Novelist
+916	Blogger, digital visionary
+1080	Facial surgeon
+983	Microlender
+938	Journalist
+1018	Ecological entomologist
+995	Multimedia artist
+996	Gaming theorist
+963	Activist, singer-songwriter
+1020	Green chef
+955	TED Curator
+941	Online marketing whiz
+947	Entrepreneur
+920	Astronomer
+1006	Ecologist
+968	Analytical psychologist
+934	Producer
+957	Writer
+1010	Designer, educator
+928	Coldwater swimmer
+962	HIV/AIDS fighter
+987	Editorial cartoonist
+948	Artist, photographer
+924	Psycho-economist
+930	Author, journalist
+1003	Ethnic conflicts scholar
+976	Plant neurobiologist
+961	Writer
+949	Education researcher
+972	Economist
+1005	Labor-rights activist
+1002	Humanitarian design activist
+1000	Optogeneticist
+984	Food scientist
+945	Sustainability expert
+918	Whistleblower
+927	Cognitive psychologist
+935	Comedian
+944	Happiness researcher
+967	Computational neuroscientist
+921	Entrepreneur
+1013	Activist and social entrepreneur
+1653	Writer
+936	Entrepreneur
+943	Writer, thinker
+1016	Aspiring organic farmer
+1041	Activist for environmental justice
+1004	Photographer
+974	Global health expert; data visionary
+970	Public health expert
+977	Philanthropist
+1355	Leadership educator
+1048	Director, The Institute for Global Happiness
+1062	Writer
+1132	Security expert
+1119	Artist and organizer
+1045	Writer, psychologist
+1059	Writer, columnist
+1098	Lighting designer
+1125	Sociologist
+1060	Healthcare communicator
+1015	Builder
+982	City councilman
+1075	Language 
+1412	Professor
+1316	Civic thought leader
+1038	Author/educator
+1017	Mediator
+1014	Software entrepreneur
+1053	Instructional designer
+1055	Soprano
+1082	Computer theorist
+1179	Community activist
+1117	Musician and activist
+1079	Economist
+1093	Natural resources expert
+1046	Researcher
+1034	Educator
+1358	Singer and songwriter
+2088	Scientist
+1072	Architect
+1105	Soprano
+1103	Ethicist
+1051	Designer
+1056	Social justice and green energy activist
+1225	Nonprofit VC
+1043	Psychologist
+1113	Google Fellow
+1074	Journalist
+1057	Scientific visualization expert
+1186	Author, producer
+1270	Medical image maker
+1351	Founder, Doha Film Institute
+1356	Biologist
+1116	Inclusivity activist
+1216	Author, Zen priest
+1224	Media executive
+1205	Playwright, activist
+1101	Global health expert; data visionary
+1106	Language teacher
+1154	Iranian visual artist
+1044	Journalist
+1033	Journalist
+1061	Cartoonist 
+1124	Surgeon
+1031	Author, educator, activist
+1083	Piano trio
+1050	Cyborg Anthropologist 
+1129	Science writer
+1039	Conservationists, filmmakers
+1070	Roboticist 
+1047	Physician, cancer researcher
+1052	Wellness specialist
+1081	Explorer, ethnographer
+1030	Change catalyst
+1058	Roboticist 
+1076	Investor and advocate for moral leadership
+1049	Nobel peace laureate
+1066	Media maven
+1064	Landscape architect
+1032	Corrections pioneer
+1078	Former US Secretary of State
+1071	Somali doctors who treat women refugees
+1054	Author, Activist 
+1036	Website co-founders
+1040	COO, Facebook
+1068	Poet, playwright
+1135	Toymaker
+1089	Journalist
+1136	9/11 mothers
+1166	Historian
+1077	Entrepreneur
+1170	Entrepreneur
+1065	Tech publisher
+1133	Biological engineer
+1145	Physicist
+1139	Physicist, cosmologist
+1237	Artificial life researcher
+1215	Inventor
+1257	Papercutter artist
+1212	Behavioral economist
+1094	Op-ed columnist 
+1110	Composer, conductor
+1238	Journalist
+1108	Puppeteers
+1304	Chef
+1095	Physicist
+1122	Farmer and technologist
+1206	Psychologist
+1152	Data artist
+1160	Physicist
+1144	Technologist
+1111	Educator
+1308	Neuroscientist
+1137	Architect and engineer
+1217	Historian of technology and culture
+1148	Pediatric anesthesiologist
+1104	Berkeley Bionics' CEO
+1131	Health policy expert
+1102	Primatologist
+1085	Street artist
+1801	Director, designer
+1222	Artist and technologist
+1140	Filmmaker
+1096	Activist, volunteer firefighter
+1173	Cellist
+1134	Software engineer
+1114	Filmmaker
+1187	Tissue engineering researcher
+1141	Polar photographer
+1180	Computational neuroscientist
+1156	Violinist
+1268	Tech investor
+1143	Entrepreneur
+1090	Educator and social entrepreneur
+1109	Engineer
+1138	Designer
+1147	Designer
+1084	Journalist
+1088	Surgeon
+1174	Executive chair, Ford Motor Co.
+1087	Philanthropist
+1153	Epidemiologist
+1171	Photographer
+1175	Linguist, educator
+1146	Neuroengineer
+1149	Marine biologist
+1091	Organizer and author
+1142	Biomedical engineer
+1164	Artist
+1167	Communicator
+1161	Designer
+1183	Technologist
+1115	Entrepreneur
+1155	Journalist
+1184	Polymath
+1165	Chief Economist and Senior Vice President, World Bank
+1107	Security consultant
+1182	Friend of the High Line
+1100	Poet
+1169	Artist and curator
+1230	Visualizer and gamestorming
+1286	Philosopher, entrepreneur
+1118	Historian
+1092	Cognitive scientist
+1158	Roboticist 
+1163	Dinosaur digger
+1127	Educator
+1126	Wrongologist
+1130	Entrepreneur
+1121	Film critic and blogger
+1112	Military leader
+1086	Internet activist and computer engineer
+1263	Translator, plain language activist
+1300	Engineer, Social Entrepreneur
+1324	Engineer, nuclear technologist
+1279	Activist
+1242	Journalist
+1295	Computer scientist
+1168	Physician scientist
+1181	e-Patient
+1359	Healthcare innovator
+1354	Teacher
+1151	Pranksters
+1340	Architect
+1293	Poet
+1269	Comedian
+1344	Psychologist
+1305	Education innovator
+1162	Philosopher, entrepreneur
+1177	Artist
+1185	Educator
+1264	Chemist
+1243	Designer
+1285	Pro snowboarder
+1284	Artist, urban farmer
+1282	Storyteller
+1178	Comedian, activist
+1172	Beatjazz inventor and controllerist
+1256	Research scientist
+1322	Biomedical animator
+1278	Entrepreneur, author
+1283	Filmmaker
+1208	Penguin expert
+1317	physicist
+1341	CEO, Kiva Systems
+1223	Entrepreneur
+1201	Journalist
+1244	Software entrepreneur
+1200	Sound consultant
+1210	Stellar astronomer
+1252	Artist
+1207	Planetary futurist
+1289	Science author
+1235	Soprano
+1232	Social commentator
+1197	Theorist
+1189	Anti-extremism activist
+1301	Photographer
+1219	Artist
+1188	Internet freedom activist
+1253	Public health researcher
+1220	Political economist
+1327	Philosopher
+1241	Child development psychologist
+1267	Brain scientist
+1234	Debunker
+1240	Conductor
+1274	Biochemist, geneticist
+1261	Movement expert
+1202	Communications technology innovator
+1214	Filmmaker
+1249	Science entrepreneur
+1288	Anti-torture activist
+1194	Algoworld expert
+1218	Chemist
+1262	Techno-illusionist
+1203	Evolutionary biologist
+1221	Underworld investigator
+1191	Journalist
+1364	Director of The British Museum
+1246	Lie detector
+1198	Psychologist
+1259	Neuroeconomist
+1281	Roboticist
+1276	Comedian
+1193	Actor
+1190	Economist, journalist and broadcaster
+1236	Media mogul, TV host
+1271	Jetman
+1231	Physician and author
+1228	Global development worker
+1265	Artist
+1266	Digital preservationist
+1248	Educator
+1229	Cancer researcher
+1258	Privacy artist
+1247	Artist
+1233	Filmmaker
+1204	Engineer and biodiversity scientist
+1199	Anti-hunger leader
+1255	Writer
+1211	Techno-illusionist
+1239	Plastics recycler
+1192	Cybersecurity expert
+1226	Historian
+1372	Marine biologist
+1303	Environmental economist
+1326	NULL
+1213	Geneticist
+1251	Biomedical engineer
+1195	Designer
+1260	Inventor
+1209	Peace activist
+1196	Politician
+1227	Data researcher
+1348	Economist, techno-activist
+1332	NASA scientist
+1280	Astronomer
+1472	Autism researcher
+1473	Reporter
+1306	Gardening activist
+1331	Mathematician
+1338	Artist, scientist and entrepreneur
+1292	Reporter
+1350	Ethicist
+1307	Philosopher
+1299	Engineer
+1419	Engineer and artist
+1309	Neuroscientist
+1254	Psychiatrist and writer
+1272	Developer, 12 year old
+1297	Medical inventor
+1343	Engineer
+1312	Author
+1291	Researcher
+1336	Journalist, swimmer
+1302	Surgeon
+1370	Computer security expert
+1388	Maker, critical thinker
+1334	Philosopher
+1417	Primatologist
+1353	Photographer and retoucher
+1310	Behavioral economist
+1287	Wrongologist
+1330	Psycho-economist
+1367	Economist
+1298	Jazz vibraphonist
+1335	3D printing entrepreneur
+1315	Data scientist
+1423	Artist
+1432	Game designer
+1337	Physician, broadcaster
+1352	Dinosaur digger
+1357	Writer
+1321	Foreign Minister of Norway
+1383	Artist, designer
+1363	Stellar astronomer
+1393	Architect
+1607	Happiness researcher
+1347	CEO, presentation designer
+1349	Neuroscientist
+1415	Performance artist
+1439	Photographer
+1400	Data artist
+1384	Professor of Economics, University of Waterloo
+1399	Doctor, intensive care specialist
+1369	Senior Editor, TIME Magazine
+1606	Moustache activist
+1463	Designer
+1328	Cybersecurity expert
+1385	Neuroscientist
+1427	Social science researcher
+1406	Founder and Executive Director, Earthspark International
+1362	Photographer
+1371	YouTube trends manager
+1609	Designer
+1625	Poet and actor
+1392	Industrial Designer
+1290	Science writer
+1325	Contemporary music ensemble
+1294	Organizer
+1342	General
+1311	Physiotherapist
+1361	Aid worker
+1323	Singer-songwriter
+1396	Physician
+1368	Entrepreneur
+1345	Medical technologist
+1339	Reporter
+1488	Engineer
+1446	Professor of music
+1437	Advertising guru
+1424	Psychologist
+1313	Actor and activist
+1320	Science fair winner
+1366	Artist
+1365	Writer
+1608	CEO, Team Rubicon
+1314	Diplomat
+1329	Social Media Theorist
+1541	Photographer
+1530	Teacher
+1459	Roboticist
+1480	Death penalty lawyer
+1452	Graphic designer
+1507	Assistant Professor
+1948	Philosopher and writer
+1420	Clawhammer banjo player
+1404	Engineer and artist
+1426	Physicist
+1425	Archaeological geneticist
+1470	Biological miner
+1508	Video sculptor
+1448	Data researcher
+1413	Body architect 
+1454	Virus hunter
+1379	Filmmaker
+1398	Poet
+1450	Neuroscience PhD student + writer
+1639	Film executive
+1422	Web entrepreneur
+1374	Writer
+1375	Space activist
+1487	Computer scientist
+1464	Performance ensemble
+1444	Skeptimist
+1377	Quiet revolutionary
+1469	Thinker
+1429	Mayor of Rio de Janeiro
+1416	Secret keeper
+1436	NULL
+1411	Technologist
+1380	Climatologist
+1381	Code activist
+1389	Social psychologist
+1443	Writer
+1613	Writer and radio producer
+1430	Activist
+1458	Vocalist, beatboxer, comedian
+1409	Cultural analyst
+1634	Brand strategist
+1447	Cognitive neuroscientist
+1382	Social energy entrepreneur
+1421	Surgeon, journalist
+1378	Public-interest lawyer
+1410	Graphic designer
+1449	Designer, educator
+1401	Materials engineer
+1505	Visualizer
+1474	Journalist
+1471	Expert
+1544	Writer and filmmaker
+1451	Street artist
+1442	Natural history filmmaker 
+1433	Designer
+1405	Techno-illusionist
+1482	Techno-illusionist
+1440	Musician, Conductor
+1456	High-wire artist
+1402	Former director of DARPA
+1435	Kinetic sculptor
+1390	Author, entrepreneur
+1477	Satellite archaeologist + TED Prize winner
+1394	Entrepreneur and energy theorist
+1397	Nuclear scientist
+1579	Museum director
+1761	Sexuality educator
+1391	Vulnerability researcher
+1663	Video maker
+1403	Peace activist, Nobelist
+1648	Dermatologist
+1528	Photojournalist
+1407	NULL
+1460	Professor
+1387	Oceanographer
+1386	TED Curator
+1434	Physicist, energy guru
+1517	Computer programmer
+1431	Lawyer
+1438	Blogger and fashion icon
+1445	Malariologist
+1408	Marine biologist
+1418	Philanthropist
+1441	Technologist
+1604	Micro photographer
+1468	Biologist
+1566	Designer, Storyteller
+1481	Health reporter
+1671	Neuroscientist
+1475	Health services innovator
+1696	Geneticist, physician
+1465	Astronomer
+1577	Violinist
+1455	Global health expert; data visionary
+1503	Biologist
+1484	Artist
+1461	Curator, rare book scholar
+1483	Physicist
+1453	Marine biologist
+1457	Arab sexuality expert
+1462	Muslim studies scholar
+1485	Biologist
+1490	Performance poet, multimedia artist
+1516	Designer
+1567	Social Justice Activist
+1542	Peace builder
+1660	Food security expert
+1600	Writer
+1629	Comedian
+1428	Educator
+1467	Futurist
+1466	Digital money and identity consultant
+1489	Professor
+1611	Entrepreneur
+1598	Architect
+1479	Skater
+1560	Forensic psychologist, expert witness
+1645	Clinical researcher
+1610	Raptor biologist, wildlife photographer
+1478	Journalist
+1476	Film director
+1601	CEO, Lumos
+1538	Cofounder, Incredible Edible
+1521	Author
+1565	Author and Activist
+1597	Psychologist, Disgust researcher
+1664	Politician
+1514	Neuroeconomist
+1506	Mechanical engineer
+1526	Composer
+1614	Inventor
+1543	Complexity theorist
+1574	Management theorist
+1575	Debunker
+1603	Letter enthusiast
+1624	Recovering politician
+1619	Bluegrass musicians
+1595	Politician
+1712	Science historian
+1616	Mechanical engineer
+1545	Disaster relief expert
+1618	Cognitive researcher
+1568	Biologist, community science advocate
+1559	Architect
+1596	Poet and playwright
+1548	Writer
+1522	Beekeeper
+1549	Designer
+1670	Behavioral economist
+1498	Global health and development specialist
+1537	Artist and historian
+1499	Inventor, environmentalist, educator
+1563	Cognitive Neuroscientist
+1591	Business romantic
+1569	Social psychologist
+1551	Sculptor
+1587	Neuroscientist, Artist
+1532	Photo Retoucher
+1546	Social Media Theorist
+1531	Educator
+1552	Theater producer
+1492	Digital strategist
+1580	Business Educator
+1513	Navy Admiral
+1586	Lawyer
+1571	Artist
+1564	Sound consultant
+1661	Chemist
+1554	Journalist
+1941	Physicist, inventor
+1491	Physical Computing Guru
+1515	Technologist
+1534	Applied mathematician
+1592	Communications teacher
+1626	Tissue engineering researcher
+1572	Trust researcher
+1524	Visual Effects Guru
+1584	Comedian and Mental Health Activist
+1581	COO, Mozilla Foundation
+1599	Development Leader
+1570	Computer Scientist, Educator
+1576	Network author
+1558	Open-government expert
+1494	Mental health law scholar
+1510	Anti-poverty activist
+1561	Scientist and biofuel guru
+1518	Politician, data activist
+1519	Computational architect
+1512	Sonochromatic Cyborg Artist
+1622	Designer
+1573	Behavioral Neuroscientist
+1556	Data Intelligence Agent
+1583	Environmental policy influencer
+1557	Mental health care advocate
+1527	Dancer and Choreographer
+1594	Journalist
+1547	Public intellectual
+1501	Game Designer
+1637	Novelist
+1496	Global Security Futurist
+1602	Techno-illusionist
+1593	Globalization researcher
+1520	Femto-photographer
+1555	Author
+1562	Stem cell research advocate
+1500	Revolutionary Guitarist
+1585	Data Commons Advocate
+1535	Filmmaker and Remixer
+1533	Management thinker
+1588	Art diagnostician
+1523	Blogger
+1509	Cancer Researcher
+1495	Quantum Researcher
+1692	Maker
+1797	Surprisologist
+1667	Education surveyor
+1632	Transport networker
+1553	Artist, designer, urban planner
+1628	Entomologist
+1617	Sustainable development expert
+1582	Mapmaker
+1636	Graphic Designer
+1612	Psychologist
+1620	Transportation specialist
+1735	Economist
+1605	Zoologist
+1578	Producer
+1623	Editor
+1621	Pilot
+1665	Experimental micromechanics pioneer
+2332	Writer, traveler
+1644	Author/illustrator
+1925	Philosopher
+1706	Behavioral economist
+1627	Medicine law expert
+1668	Complex systems theorist
+2074	Author, historian
+1649	Former U.S. Secretary of State
+1672	Educator and activist
+1647	Model
+1631	Polar explorer
+1641	Biotechnology entrepreneur
+1630	Journalist
+1633	Neuroscientist
+1656	Policy entrepreneur
+1654	Writer
+1640	Mindfulness expert
+1650	Proud dad
+1705	Mechanical engineer
+1657	Computer scientist
+1652	Surgeon and technologist
+1655	Science enthusiast
+2305	Writer
+1646	Activist
+1753	Anti-sexism educator
+2732	Novelist
+1658	Photographer
+1651	Reporter
+1666	Educator
+1643	Performance artist
+1659	Activist
+1673	Transparency activist
+1638	Journalist
+1803	Poet and language advocate
+1642	Social psychologist
+1717	Neurosurgeon
+1701	Behavioral economist
+1689	Neurobiologist
+1674	Biologist
+1714	Neuroscientist and psychiatrist
+1677	Roboticist
+1662	Inspirer
+1779	Health and technology activist
+1708	Know-it-all
+1675	Writer
+1669	Relationship therapist
+1805	Philosopher
+1885	Maker
+1725	Technology columnist
+1698	Engineer and biodiversity scientist
+1707	Inventor
+1804	Beatboxer and inventor
+1691	Musician, activist
+1684	Marine biologist
+1720	Innovation researcher
+1679	Former governor of Michigan
+1730	Futurist
+1709	Robotics entrepreneur
+1726	Corporate director, author
+1747	Multimedia artist
+1719	Economist
+1762	Roboticist
+1729	Photojournalist
+1736	Technologist, entrepreneur
+1782	Bluegrass musicians
+1690	Environmentalist, futurist
+1678	Education researcher
+1811	Science communicator
+1934	Visual grammar engine inventor
+1749	Designer
+1682	Musician, blogger
+1716	Yo-yo champion
+1946	Neuroscientist
+1693	Computer theorist
+1758	Dolphin researcher
+1787	Cancer detector inventor
+1750	Violinist
+1781	Interface designer, engineer
+1806	Multi-sense designer
+1744	Entrepreneur
+1793	Shepherd of electrons
+1702	Legal activist
+1760	Graphic artist, director
+1785	Architect
+1699	Inventor
+1713	Curious journalist
+1704	Roboticist
+1745	Computer scientist, entrepreneur and philanthropist
+1727	Nuclear scientist
+1754	Energy software maker
+1683	Grassland ecosystem pioneer
+1757	Undercover journalist
+1759	Management theorist
+1763	Photographer
+1931	Psychologist
+1790	Bow designer
+1800	Research psychologist
+1695	Serial entrepreneur
+1823	Ecologist
+1710	Educator
+1723	YouTube educator
+1694	Activist
+1820	Cybersecurity specialist
+1835	Editor
+1718	Linguist
+1703	Ornithologist
+1926	Sustainability strategist
+1755	Passionate reader
+1721	Artist
+1700	Macroencapsulator
+1741	Clinical psychologist
+1685	Gardener
+1807	Graphic designer
+1687	Poet
+1827	Neuroscientist
+1786	Cognitive psychologist
+1722	Science fair winners
+1688	Author, speaker, reformer
+1808	Musician
+1697	Composer, conductor
+1828	Moral philosopher
+1715	Journalist
+1746	Philosopher, ethicist
+1939	Screen engineer
+1877	Civilization scholar
+1751	Evolutionary geneticist
+1777	Paleontologist
+2378	World champion freediver
+1773	Management thinker
+1711	Social scientist
+1733	Psychologist
+1774	Surgeon
+1742	Computer engineer
+1724	Research scientist
+1865	Mayor
+1833	Founder and CEO, Future Today Institute
+1799	Life saver
+1840	Epidemiologist
+1832	Anthropologist
+1731	Educator
+1847	Journalist
+1802	Electronic systems expert
+1738	Author/educator
+1756	Writer
+1743	Inventor
+1809	Architect
+1853	Theoretical physicist
+1769	Architect
+1792	Beatboxer
+1830	Comedian, activist
+1739	Philanthropist
+1732	Education reformer
+1737	Poet, performer, activist
+1734	Teacher
+1728	Educator
+1794	Philosopher
+1776	Cartoon editor
+1817	Designer and storyteller
+1752	Design curator
+2208	Toy designer
+1937	Rating agency reformer
+2303	Open-source engineer and artist
+1798	Aircraft engineer
+2034	Sound consultant
+1878	Educational psychology professor
+1764	Autonomous systems pioneer
+2179	Designer
+1876	Airborne logistics activist
+1943	Public policy thinker
+1766	Sci-fi author
+1768	Risk economist
+1826	False memories scholar
+1765	Former Prime Minister of Greece
+1849	Artist
+1866	Game Designer
+1770	Tech entrepreneur
+1815	Health psychologist
+1872	Drones ecologist
+1767	Women’s rights activist
+1796	Parents
+1900	Neuroscientist and science writer
+1854	Architect and urbanist
+1821	Gentleman thief
+1862	Mathemagician
+1788	Natural sounds expert
+1945	Wild sex biologist
+1778	Investor and political scientist
+1834	Photographer
+1874	Airborne ecologist
+1857	Explorer and filmmaker
+1772	Writer, psychologist
+1822	Bees scholar
+1879	Neuroscientist
+1920	Architect and urbanist
+1881	Social investment visionary
+1814	Visual artist
+1824	Bioprinting entrepreneur
+1851	Emerging-markets economist
+1842	Global economist 
+1780	Cloudspotter
+1860	Spinal cord researcher
+1771	North Korean refugee
+2044	Theorist
+1810	Circadian neuroscientist
+1909	Arab sexuality expert
+2020	Systems biologist
+1856	Novelist
+1848	Privacy economist
+1913	Education innovator
+1784	Anti-corruption activist
+1837	Business strategist
+1836	Political philosopher
+1850	Corporate innovator
+1902	Digital humanities researcher
+1905	Biomedical engineer
+1924	Producer
+1789	Global author
+2013	Poetry critic
+1825	Political theorist
+1791	Plutocracy chronicler
+1812	Founder of the Beirut Marathon
+1795	Advertising expert
+1819	Science writer
+1880	Monk
+1882	Bio researcher
+1829	Philosopher
+1813	Neuroscientist
+1855	Innovation economist
+1839	Political scientist
+1845	Biomaterials researcher
+1816	Rewilding campaigner
+1818	Labor lawyer and activist
+1841	Editor
+1935	Regenerative neurologist
+1944	Technology writer
+1891	Philosopher
+1852	Literary critic
+1921	Artist
+1940	Privacy researcher and activist
+2097	Environmental engineer, sanitation activist
+1942	Video sculptor
+1984	Interaction designer
+2565	Palliative care physician
+1996	Academic
+1932	Equality advocate
+2002	Zoologist
+1831	Writer
+1933	Hacker, community manager
+1888	Community-minded architect
+1886	Colombian politician, urban activist
+2060	Civics educator
+1838	City transportation expert
+1843	Urban planner
+1864	Human rights advocate
+1858	Trash anthropologist
+1846	Urban documentarian
+1957	Computer scientist
+1859	Business professor
+1897	Social psychologist
+1783	Biologist
+1916	Animal scientist
+1965	Education pioneer
+2035	Cybersecurity researcher
+1904	COO, Unilever
+1873	Value-based health care advocate
+1863	Architect
+1892	Place maker
+1981	Inventor, ocean swimmer
+1883	Political pundit
+1908	Roboticist
+1907	Curator
+2135	Information security manager
+1887	Curious journalist
+1911	Consultant
+1894	Writer
+2003	Ocean advocate
+2682	Urban planner
+1875	Robotics activist
+1861	Cybersecurity expert
+1914	Criminal justice reformer
+1919	Satellite designer
+1893	Economist
+1930	Leadership expert
+1903	NULL
+1929	Financial expert
+1901	Financial management expert
+1938	Consultant
+2046	Mechanical engineer
+1889	Cave Explorer
+2099	Leadership expert
+1912	Musician and graphic designer
+1936	Student scientist
+1915	Teen activist
+1922	Scientist, entrepreneur, inventor
+1927	Sustainable investment champion
+1947	Endocrinologist
+1898	Comedian and writer 
+1890	Environmental and literacy activist
+1896	Journalist, swimmer
+1918	Violence and abuse prevention expert
+1895	Engineer
+1917	Entrepreneur, animator, philanthropist ...
+1910	Women's-health expert
+1928	Speech scientist
+1906	COO, Facebook
+2037	Psychologist
+1999	Journalist and documentarian
+2008	Author and advocate
+2209	Poet
+2028	Poet and educator
+2056	Statistician
+2201	Microbial ecologist
+2814	Geoscientist
+2183	Architect
+2007	Punter and author
+2117	Nature photographer
+2005	Writer
+1958	Security maven
+1988	Climate scientist
+1959	Bionics designer
+2061	Inventor
+2024	Peace activist
+2026	3D printer
+2072	Writer and philosopher
+2067	Astrophysicist
+2016	Documentary filmmaker
+2095	Photojournalist
+2041	Relentless mind
+2077	Brain researcher
+2050	Education entrepreneur
+1998	Leadership expert
+2022	Language historian
+2057	Prison administrator and reformer
+2075	Eco-entrepreneur
+1987	Eye surgeon, inventor
+2064	Architect + ecotourism specialist
+1971	Biomechatronics engineer
+2009	Vagabond photojournalist + conceptual artist
+1994	Music producer and DJ
+2047	Artist
+2018	Investigative journalist
+1954	Education activist
+2063	Photographer + storyteller
+1963	Theoretical physicist
+1964	Philanthropist
+1956	Technology designer
+1949	Anti-corruption activist
+1951	Astronaut
+2012	Psychologist; happiness expert
+2045	Philosopher
+1950	Whistleblower
+2019	Cybersecurity expert
+1997	Golden Gate guardian
+1977	Type designer
+2014	Biologist
+2004	Open-science advocate
+2010	Composer, singer, author, actor, activist
+2069	Astronomer
+2161	Entrepreneur + educator
+2324	Psychologist
+1973	Op-ed columnist 
+1983	Writer
+1961	Model and activist
+2052	Molecular animator
+1976	Planet finder
+2006	Writer
+1969	Filmmaker
+2039	User experience master
+2092	Architect
+2043	Tech visionary
+2021	Author
+1966	Urban planner
+2143	Polar explorer
+2031	Poet
+1986	Sports science reporter
+1995	Ecologist
+1955	Science writer
+2206	Magician
+2070	Novelist
+1953	CEO of Google
+1960	Legal activist
+1991	Techno-illusionist
+1990	Investment expert
+1979	Plasma physicist
+1993	Cartoonist
+2015	Inventor, futurist
+1952	Deputy director, NSA
+2001	Firefly specialist
+1978	Writer
+2029	Author
+1992	Military leader
+2089	Artist, visionary
+1985	Geneticist
+1982	Space scientist
+2049	Humorist, web artist
+2027	Cruciverbalist
+1972	Former U.S. Representative and NASA astronaut; survivors
+1974	Writer
+1989	Polymorphic playwright
+2042	Professor of international law
+2000	Performance poet, multimedia artist
+2030	Security researcher
+1962	Amateur musicians
+2153	Complexity theorist
+2231	Photojournalist
+2054	Musician
+2017	Comedian, journalist, activist
+2033	Music technologist
+2011	Philosopher
+2023	Philosopher
+2032	Historian of science
+2038	Actor and activist
+2053	Historian
+2091	Children's book author
+2090	Global health expert; data visionary
+2048	Artist
+2121	Activist
+2094	Data Editor of The Economist
+2065	Microinsurer
+2036	Policy advisor
+2101	Economist
+2100	Pianist
+2068	Citizen journalist
+2059	Poet, educator
+2062	Author/illustrator
+2114	Veteran aid worker
+2096	Emergency medical technician
+2073	Political pundit
+2078	Strategist
+2071	Comedian + Designer
+2066	Science Historian + Writer
+2119	Aerial robotics researcher
+2055	Venture capitalist, author
+2076	Physician
+2025	Global author
+2148	Slow television advocate
+2136	Storytelling activist
+2120	Chaplain + author
+2098	Cuban health care expert
+2108	Public-health expert
+2194	Pediatrician
+2210	Management professor
+2115	Science humorist
+2122	Writer
+2111	Vagabond photojournalist + conceptual artist
+2145	Cardiologist
+2093	Climate economist
+2102	Self-esteem advocate
+2103	Neuroscientist
+2133	Emergency physician, public health advocate
+2132	Drug-resistance economist
+2349	Women's health pioneer
+2203	Conservation technologist
+2112	Data analyst
+2282	Equality advocate
+2232	Architect
+2163	Poet and educator
+2186	Math educator
+2106	Journalist
+2137	Mother + ALS Advocate
+2424	Geoscientist
+2197	Space researcher, biologist, artist
+2160	Protector of whales
+2169	Creative spirit
+2154	Livestreaming activist
+2157	Graffiti artist + activist
+2213	Entrepreneur
+2107	Political mobilization activist
+2200	Entrepreneur
+2105	Remittances expert
+2126	Anti-guerrilla creative
+2104	Democracy activist
+2333	Author
+2204	Secure email developer
+2129	Favela painters
+2110	Voice for refugees
+2134	Social progress expert
+2128	Urban architect
+2264	Last tribes photographer
+2109	Cancer technologist
+2167	Innovation strategist
+2131	Music icon
+2320	Astronomer
+2319	Sculptor 
+2118	International litigator
+2141	Amazonian ethnobotanist
+2165	Polar explorer
+2175	Cross-cultural consultant
+2150	Technologist
+2116	Ocean explorer and environmentalist
+2139	Megacities expert
+2176	Techno-sociologist
+2146	Documentary photographer
+2149	Attorney + privacy advocate
+2138	medical inventor
+2195	Photographer
+2142	Human-rights activist
+2130	Drug policy reformer
+2152	Women’s rights activist and entrepreneur
+2172	Neuroscientist
+2202	Investor, data scientist, entrepreneur
+2182	Organizational changemaker
+2174	Peace and conflict researcher
+2166	Forester and sustainability activist
+2168	Monk, author, photographer
+2212	Architect
+2221	NULL
+2144	Human resources expert
+2147	Choreographer
+2173	Social entrepreneur
+2113	Educational entrepreneur
+2127	President of Mauritius
+2124	Policy reformer
+2199	Data scientist
+2140	Psychologist
+2207	Prison reform advocate
+2180	NULL
+2178	Psychologist
+2193	Psychologist, author
+2198	Consultant
+2162	Map researcher
+2156	Psychologist
+2159	Research scientist, Google
+2158	Dictionary editor
+2164	Forensic anthropologist
+2181	Biologist
+2184	Smart product inventor
+2238	Paleontologist
+2170	Microroboticist
+2416	Policy expert
+2151	Diversity advocate
+2214	Psychologist
+2393	Architect
+2171	Human resources professional
+2185	Medical researcher
+2250	Inmates
+2155	Data scientist
+2390	Ocean scientist
+2525	Design thinker
+2262	Mechanical engineer, social advocate
+2177	Epidemiologist
+2211	Humanitarian
+2369	Author and journalist
+2620	Logician, mathematician, computer scientist
+2454	Product designer
+2219	Writer
+2240	Poet, educator
+2257	Physical therapy entrepreneur
+2265	Cognitive scientist
+2296	Data visualization researcher
+2402	Astronomer, astrobiologist, actor, writer
+2291	Roboticist
+2326	Foreign policy strategist
+2304	Artist
+2216	Chemist, inventor
+2226	International relations expert 
+2227	Stellar astronomer
+2381	Performance artist
+2684	Guitar duo
+2476	Technology forecaster 
+2245	Synthetic biologist
+2263	Journalist
+2246	Computer scientist
+2259	Stratospheric explorer
+2309	International policy analyst
+2314	Privacy researcher and activist
+2229	Behavioral economist
+2224	Perceptual navigation specialist
+2222	Story collector
+2215	Neuroscientist
+2218	Computer scientist
+2230	Space explorer
+2239	Human rights attorney
+2237	Astrophysicist
+2323	Philanthropist, mathematician
+2306	New media artist
+2235	Planetary explorer
+2234	Investor
+2294	Researcher
+2300	Photo editor
+2249	Photographer
+2225	Philanthropist
+2242	Director/choreographer, dancer
+2228	Immersive storyteller
+2223	Entrepreneur and philanthropist
+2248	Singer-songwriter
+2277	Cognitive scientist
+2251	Sustainable designer
+2244	Neuroscientist
+2258	Transhumanist
+2243	Philosopher
+2241	Plant geneticist
+2313	Laser scientist
+2260	Exoplanet expert
+2317	Vaccine visionary
+2343	Cancer physician and writer
+2286	Writer and editor
+2256	Writer
+2220	Artist, potter, community builder
+2247	Urban sociologist
+2272	Idea guy
+2255	Surf photographer
+2252	Relationship therapist
+2261	Pastor
+2482	Journalist
+2217	Social activist
+2344	Architect, designer
+2275	Global journalist
+2278	Polymorphic playwright
+2345	Singer-songwriter
+2325	Palliative care physician
+2292	Circular economy advocate
+2236	Neuroscientist, stand-up comic
+2334	Photographer
+2280	Photographer
+2285	Radio researcher
+2273	Jazz pianist
+2233	Children’s rights activist
+2289	Public health journalist
+2253	Digital storyteller
+2254	Animal rights lawyer
+2274	Product creator
+2374	Journalist and psychologist
+2346	Roboticist
+2341	Writer, coach, artist ...
+2864	Sociologist, human rights activist
+2435	Writer and radio host
+2638	Author, blogger, entrepreneur
+2287	Graphic designer
+2411	Writer and poet
+2356	Designer
+2358	Voice for refugees
+2407	Green entrepreneur
+2297	Listener
+2394	Actor and activist
+2370	Documentary filmmakers
+2366	Guitarist
+2362	Activist
+2376	Virtual reality pioneer
+2425	Computational geneticist
+2327	Tennis legend and activist
+2724	Pricing consultant
+2311	Political scientist
+2281	Poet
+2283	Management thinker
+2301	Evolutionary biologist
+2331	Global leader
+2279	Computer scientist
+2308	Social observer
+2318	Disaster roboticist
+2284	Writer
+2337	Education activist
+2483	Social entrepreneur, co-founder of Menstrupedia
+2298	Peace expert
+2288	Reporter
+2293	Peace activist
+2276	High school principal
+2295	Activist
+2328	Family activist
+2329	Sociologist
+2336	Poet and activist
+2310	Advocate
+2307	Historian
+2339	Climate scholar
+2335	Anthropologist
+2322	Social media analyst
+2316	Quantum physicist
+2299	Journalist
+2302	Writer and filmmaker
+2398	Security researcher 
+2315	Brain scientist
+2403	Data scientist
+2470	Strategist
+2340	Research scientist
+2342	Neural stem cell researcher
+2321	Consultant
+2330	Writer
+2363	Inventor, environmentalist, educator
+2372	Activist, anthropologist, consultant
+2377	Paleoanthropologist and rock art researcher
+2387	Astrophysicist
+2367	Wildlife conservationist
+2357	Sound artist, composer
+2351	Singer-songwriter
+2352	Investigative journalist
+2338	Author, designer
+2380	Human resources expert
+2404	Civil and environmental engineer
+2545	Planetary scientist
+2644	Cancer researcher
+2568	Lawyer, coach
+2692	Literary scholar
+2529	Lawyer, artist, human rights advocate
+2406	Chief of the Community Partnership Division, Baltimore Police Department
+2353	Journalist
+2382	Writer, blogger, author
+2361	Neuroscientist
+2359	Speleologist
+2359	Speleologist
+2368	Communications technology innovator
+2364	Innovator and social entrepreneur
+2354	Biologist
+2365	Artist
+2418	Activists
+2348	Social progress expert
+2375	Architect
+2401	Economist, journalist and broadcaster
+2417	Programmer, storyteller and illustrator
+2500	Entrepreneur
+2410	Human-computer interaction researcher and designer
+2379	President of the Republic of Kiribati
+2373	Ecologist, writer
+2414	Marine biologist, explorer-photographer
+2395	Sculptor
+2385	Coral reef biologist
+2427	Entrepreneur and conservationist
+2389	Author
+2434	Conservation photographer
+2383	Visionary inventor
+2371	Sneaker data expert
+2572	Media studies scholar
+2384	Strategy consultant, social entrepreneur and author
+2639	Rocket scientist, explorer
+2430	Textual scientist
+2651	Biologist
+2582	Academic, author
+2701	Singer, songwriter, actress
+2646	Educator
+2586	Educator
+2579	Educator and social entrepreneur
+2659	Food entrepreneur
+2615	Educator, author
+2513	Actor and Marine Corps veteran
+2431	Sustainable investment expert
+2489	Financial expert
+2624	Psychologist
+2524	Peacemaker
+2515	Doctor, writer and humanitarian
+2505	Journalist and documentarian
+2466	Director of photography, Pixar
+2542	Author, futurist, innovator
+2455	Radio researcher
+2467	Medical researcher and educator 
+2550	 Space physicist
+2473	Futurist
+2498	Physician, bioengineer and entrepreneur 
+2511	Artist
+2602	Artistic director
+2600	Painter
+2656	Astrophysicist
+2469	CEO and co-founder, iRelaunch
+2388	Fashion designer
+2433	Writer, performer
+2409	Cave diver
+2616	Educator
+2471	Synthetic biologist 
+2437	Textile artist
+2688	Physician, global health policy analyst
+2426	Special Olympics International Sargent Shriver Global Messenger
+2392	Beatboxers
+2391	Inventor
+2399	Psychiatrist, psychoanalyst and Zen priest
+2661	Writer
+2428	Professor, author and social justice advocate
+2420	Mindful addiction doctor
+2445	New York City Health Commissioner
+2603	Creative arts therapist
+2436	Big data techno-­optimist and internist
+2492	Researchers' dream donator
+2605	Bioelectronics innovator﻿
+2571	Anatomical artist
+2397	Designate Secretary-General of the United Nations
+2419	Roboticist
+2432	Principal Investigator and Director of the Open Agriculture Initiative
+2423	Global economist 
+2415	Art historian
+2396	Particle physicist
+2405	Comedian and writer
+2412	Professor of molecular and cell biology
+2429	Functional neurosurgeon
+2400	Internet activist and computer engineer
+2413	Economist and professor
+2741	Financial literacy advocate
+2585	Management researcher
+2711	Pediatric ICU doctor
+2506	Sex worker and activist
+2709	Writer
+2610	Entrepreneur
+2782	Chemical oceanographer
+2683	Humanitarian psychologist
+2449	Social scientist
+2439	Theoretical physicist
+2502	Biohacker
+2548	Machine learning expert
+2456	Social scientist, author 
+2460	Entrepreneur, inventor, author
+2491	Asteroid hunter
+2442	Muslim studies scholar
+2497	Author, speaker, reformer
+2457	Founder and CEO, Callisto
+2538	Singer, musician, composer
+2528	Geneticist, indigenous rights activist
+2504	Biomedical entrepreneur
+2521	Comedian, filmmaker
+2536	Ichthyologist
+2487	Artist, composer, engineer
+2440	Autonomous systems pioneer
+2795	Musician
+2490	Scientist, entrepreneur
+2539	Artist, graphic designer, filmmaker
+2496	Conceptual artist
+2673	Satellite archaeologist + TED Prize winner
+2486	Mobile finance entrepreneur
+2438	Writer and producer
+2710	Musical explorers
+2717	Percussion ensemble
+2443	Entrepreneur
+2507	Writer, activist and legal analyst﻿
+2474	Organizational psychologist
+2552	Maker, critical thinker
+2530	Personality researcher
+2518	Mathematician
+2555	Pediatric cardiologist
+2465	Disrupter
+2447	Designer, co-founder of Airbnb
+2595	Linguist
+2512	Physician and men’s health advocate
+2484	Paleontologist
+2574	Stranger enthusiast
+2516	Producer, activist
+2611	Musical explorers
+2468	Astronomer
+2458	Blogger
+2534	Sonic astrophysicist
+2441	Climate advocate
+2519	Technologist
+2522	Anti-hunger activist
+2480	Climate advocate
+2472	Gun-control activist
+2477	Humanitarian
+2494	Science journalist
+2464	Software engineer
+2479	Copy editor
+2459	Founder and CEO, Meta
+2532	Designer
+2475	Global strategist
+2448	Education activist
+2520	Technologist, entrepreneur
+2531	Designer, venturer
+2453	Juvenile justice reformer
+2461	Inventor
+2493	Design critic
+2488	Fixer
+2463	Artist and photographer
+2527	Immersive storyteller
+2501	Developmental researcher
+2508	Author
+2510	Neuroscientist
+2499	Author and playwright
+2462	Writer
+2495	Neuroscientist
+2481	Musician, blogger
+2451	American
+2580	Journalist
+2517	Narrative photographer
+2514	CEO, Gates Foundation
+2452	Prime Minister of Bhutan
+2537	Writer
+2523	Educator
+2690	Roboticist
+2808	Inventor, designer, death care advocate
+2485	TED Curator
+2478	Campaign leader, Global Witness
+2671	Designer, futurist
+2674	Data visualisation editor
+2591	Social geographer
+2662	Filmmaker
+2607	Peace activist
+2559	Designer
+2599	Biologist, electrical engineer
+2850	Chemical biologist
+2581	Bioengineer
+2675	Legal activist
+2576	Actor, writer
+2533	Software architect
+2601	Organizational change expert
+2547	Women's advocate
+2540	Sustainability crusader
+2549	Strategist
+2554	Currency futurist
+2544	Nanobiotechnologist
+2570	Biotech entrepreneur
+2526	Education innovator
+2546	Eco-entrepreneur
+2563	Industrial systems thinker
+2667	Artist
+2535	Survivor and activist
+2612	Artist, activist 
+2848	 Child protection leader, activist, author 
+2589	Choreographer and educator
+2854	Digital archaeologist
+2856	Policy researcher
+2642	Bioethicist
+2685	Communications researcher
+2584	Psychologist
+2557	Neuroengineer
+2556	Artist
+2551	Environmental writer
+2553	Investigative journalist
+2594	Author, entrepreneur
+2632	Futurist
+2541	Architect
+2592	Neuroscientist, philosopher
+2593	Biologist, community science advocate
+2590	Anthropologist, expert on love
+2627	Filmmaker
+2569	Photographer
+2560	Economist
+2566	Satellite archaeologist + TED Prize winner
+2573	Digital strategist
+2633	Energy scholar
+2583	Climate policy expert
+2619	Business romantic
+2543	Social scientist
+2561	Writer
+2626	Blockchain entrepreneur and researcher
+2614	Privacy researcher and activist
+2577	Comedian and writer
+2575	Global affairs thinker
+2578	Filmmaker
+2645	Digital visionary
+2562	Climate advocate
+2604	Trust researcher
+2567	Internet freedom activist
+2558	Forest ecologist
+2606	Techno-sociologist
+2597	Writer, activist
+2598	Global author
+2721	Epigeneticist
+2623	Technologist
+2663	Developmental and regeneration biologist
+2654	Experimental particle physicist
+2587	Civics educator
+2588	Author
+2608	Electoral consultant
+2596	Immigration scholar
+2631	Social psychologist
+2618	Political theorist
+2648	Neuroscientist, writer, entrepreneur
+2637	Digital storyteller
+2617	Data activist
+2609	Transportation geek
+2669	Social psychologist
+2655	Economist
+2824	Computational social scientist
+2818	Technology ethnographer
+2636	Urban planner, designer, author
+2847	Entrepreneur
+2658	Sex researcher
+2736	Astronomer
+2728	Futurist
+2713	Filmmaker
+2693	Drug policy expert
+2793	Molecular biologist
+2831	Clinical professor of law
+2630	Writer
+2740	Autism advocate
+2702	Writer, radio host, comedian
+2725	Information security specialist 
+2691	Cultural theorist
+2704	Author
+2672	Inventor, student scientist
+2670	Architect
+2706	Theater director, producer
+2698	Pediatric psychologist
+2720	Lactation researcher
+2712	Social innovator
+2686	Writer, activist
+2708	Journalist, author
+2694	Media researcher
+2678	Writer
+2634	Writer, activist
+2666	Actor, activist
+2641	Wellness specialist
+2629	Civil rights advocate
+2647	Author
+2628	Broadcast personality, politician, author
+2665	Writer, activist
+2635	Transgender activist
+2649	Writer, educator
+2650	Nuclear reformer
+2621	Change catalyst
+2643	Rabbi
+2622	Physician
+2896	Journalist
+2625	Social psychologist
+2679	Learning expert
+2776	Oceanographer
+2783	Sleep researcher
+2738	Environmental engineer
+2835	Economist
+2901	Artist, educator
+2652	Organizational psychologist
+2668	Cybercrime fighter
+2653	Public sector researcher
+2660	Materials scientist
+2689	Scientist, philosopher
+2680	Cancer fighter
+2700	Designer, artist
+2803	Storyteller
+2664	Software pioneer
+2705	Poet of code
+2723	Imaging scientist
+2677	Spacecraft operations engineer
+2714	Policy advisor
+2836	Cognitive neuroscientist
+2707	Progressive mortician
+2742	Photographic ethnographer
+2735	Physician
+2726	Public health sociologist
+2722	Poet
+2822	Physiologist
+2778	Caregiver
+2800	Citizen biomedical researcher
+2681	Activist
+2719	Youth inventor
+2696	Entrepreneur
+2794	Human justice advocate
+2820	Business executive, entrepreneur
+2731	Women's health advocate
+2687	Journalist
+2697	Entrepreneur
+2729	First aid instructor
+2786	Mental health advocate
+2840	Mayor of Albuquerque
+2739	Entrepreneur
+2737	Journalist
+2730	Bioethicist, lawyer
+2733	Video game designer
+2703	Writer, activist
+2718	Data journalist
+2695	Historian
+2862	Physicist
+2716	TV journalist, women's empowerment advocate
+2828	Art editor
+2727	Information designer
+2797	Architecture critic
+2743	Designer, critic
+2734	Architect
+2810	Writer, educator
+2790	Band
+2853	Author
+2769	Historian
+2866	Surveillance and cybersecurity counsel
+2815	Psychologist
+2807	Futurist, designer
+2844	Student, musician
+2817	Cognitive neuroscientist
+2878	Architect
+2801	Novelist, essayist
+2833	Microbiologist, inventor and strategist
+2791	Attorney, public-interest activist
+2869	Astrobiologist
+2843	Author, activist
+2845	Mathematician, data scientist
+2855	Artist
+2837	Artist and filmmaker
+2805	Refugee advocate
+2846	Poet, author
+3231	Biomedical engineer
+2774	Serial entrepreneur
+2861	Author
+2886	Astrophysicist
+2787	Grandmaster, analyst
+2827	Architect
+3013	Neuroscientist
+2883	Science journalist, editor, author
+3280	Choreographer, dancer, inventor
+2830	Writer, peace advocate
+2838	Musician, entrepreneur
+2806	President, World Bank Group
+2821	Geneticist
+2851	Movement artist
+2777	Musician, poet
+2813	Journalist, news anchor
+2829	Computer scientist
+2871	Genomics researcher
+2775	Education entrepreneur
+2882	Game designer
+2816	Climate scientist
+2823	Coral reef biologist
+3136	Glaciologist
+2863	Artist, musician, lawyer, activist
+2772	Cyberspace analyst
+2885	Photographer
+2771	Neuroscientist, novelist
+2809	Refugee activist
+2834	Tech podcaster
+2812	Physicist, inventor
+2825	Roboticist
+2798	Neuroscientist
+2872	Marine biologist
+2796	Philosopher
+2819	Constitutional law scholar
+2852	AI expert
+2792	Band
+2839	Urban designer
+2892	Interdisciplinary artist
+2811	NULL
+2870	 Robotics engineer
+2789	Physician
+2859	Hedge fund chair
+2804	Founder, Gravity
+2779	Neuroscientist, primatologist, writer
+2858	Futurist, social scientist
+2785	Historian
+2894	Children’s media expert
+2770	Athlete
+2780	Actor, producer, activist
+2781	AI expert
+2842	Developmental psychologist
+2788	Health activist
+2784	Policy entrepreneur, climate expert, author
+2799	Investor, human guinea pig, author
+2826	Artist
+2841	AI product designer
+2865	Artist
+2802	Design thinker
+3257	Artist, visionary
+2857	Filmmaker, writer
+2744	Bishop of Rome
+2874	Sociologist, educator, writer
+2879	Journalist
+2889	Multimedia producer
+3114	Entrepreneur
+2876	Marketing leader
+2849	Science writer
+2887	Public intellectual
+2867	Border specialist
+2895	Innovation leader
+2877	Logistics expert
+2891	Indigenous knowledge expert
+3366	Entrepreneur
+2888	Documentary photographer
+2884	Place-maker
+2881	Historian, philosopher
+2873	Writer, activist
+2875	Chef
+2898	Technology entrepreneur
+2880	Artist
+3012	Journalist
+3269	Novelist
+3367	Commissioner for Competition, European Union
